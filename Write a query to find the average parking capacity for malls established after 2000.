@@ -1,0 +1,2 @@
+select avg(parking_capacity) from shopping_malls
+where established_year>2000;
