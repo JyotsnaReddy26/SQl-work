@@ -1,0 +1,2 @@
+select established_year,avg(parking_capacity),avg(total_area) from shopping_malls
+group by established_year;
