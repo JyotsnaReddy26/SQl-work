@@ -1,0 +1,1 @@
+select concat(SERVICE_NAME,' - ',SPECIALTY, ' by ',PROVIDER_NAME) from HEALTHCARE_SERVICES;
