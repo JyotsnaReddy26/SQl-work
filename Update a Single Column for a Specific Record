@@ -1,0 +1,5 @@
+update Employees 
+set salary=60000
+where employee_id=101;
+select * from Employees
+where employee_id=101;
