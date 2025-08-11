@@ -1,0 +1,5 @@
+update employees
+set first_name='John',last_name='Doe'
+where employee_id=102;
+select * from employees
+where employee_id=102;
